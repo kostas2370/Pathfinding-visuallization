@@ -17,7 +17,7 @@ The Pathfinding App is a tool for visualizing the pathfinding algorithms of Brea
 ## Usage
 
 1.  Download the code from the repository
-2.  Run the app by executing **python ui.py** in the command line
+2.  Run the app by executing **ui.py** .
 3.  Select the starting and ending points on the grid by clicking on the cells
 4.  Choose the algorithm (BFS or DFS) and press start
 5.  Observe the path taken by the algorithm
